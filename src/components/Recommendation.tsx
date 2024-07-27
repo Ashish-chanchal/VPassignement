@@ -69,7 +69,7 @@ const Recommendations: React.FC<{ userProfile: UserProfile; allProfiles: UserPro
           <p>Loading recommendations...</p>
         )
       ) : (
-        <p>We will recommend you more tomorrow!</p>
+        <p className='text-2xl'>We will recommend you more tomorrow!</p>
       )}
       <div className="mt-4 text-center">
         <p className="text-lg font-semibold">Likes: {likes}</p>

@@ -19,7 +19,7 @@ const UserProfileComponent: React.FC<{ profile: UserProfile; onSwipe: (direction
       dragConstraints={{ left: -100, right: 100 }}
       whileTap={{ cursor: "grabbing" }}
       dragElastic={0.7}
-      onDragEnd={(event, info) => {
+      onDragEnd={(_e, info) => {
         if (info.offset.x > 100) {
           onSwipe('right');
         } else if (info.offset.x < -100) {
