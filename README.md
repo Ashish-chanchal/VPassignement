@@ -109,11 +109,15 @@ Sidebar --> UserProfile
 
 @enduml
 
- 
+ ```bash
+# Clone the repository
 git clone https://github.com/Ashish-chanchal/VPassignement
 cd VPassignement
 
+# Install dependencies
 npm install
-npm run dev
 
+# Start the development server
+npm run dev
+```
 Open your browser and navigate to http://localhost:3000.
