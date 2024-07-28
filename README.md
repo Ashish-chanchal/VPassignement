@@ -41,6 +41,10 @@ src/
 
 ![image](https://github.com/user-attachments/assets/2d8d2ff5-7299-40b3-beaf-8ea5eedc1392)
 
+### Demo Video
+https://github.com/user-attachments/assets/2bc1f5d2-a733-4503-b9fb-9a1804983eb1
+
+
 ### User Profile
 
 
