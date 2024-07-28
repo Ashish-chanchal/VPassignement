@@ -39,9 +39,10 @@ src/
 - `Sidebar.tsx`: Displays the main user's profile details and can be toggled on mobile devices.
 - `UserProfileComponent.tsx`: Represents individual user profile cards.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fboard%2FeurU8GHgSw9RqJbTmChL5c%2FUntitled%3Fnode-id%3D0-1%26t%3DksKsxwmHNb2zELUF-1" allowfullscreen></iframe>
+![image](https://github.com/user-attachments/assets/2d8d2ff5-7299-40b3-beaf-8ea5eedc1392)
 
 ### User Profile
+
 
 A user profile consists of the following attributes:
 - `id`: Unique identifier for the user
