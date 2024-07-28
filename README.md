@@ -18,7 +18,7 @@ This project is a web application built with ReactJS and TypeScript that mimics 
 - Framer Motion
 
 ## Project Structure
-
+```
 src/
 │
 ├── components/
@@ -29,7 +29,7 @@ src/
 │ └── UserProfileComponent.tsx
 │
 └── App.tsx
-
+```
 
 ### Components
 
